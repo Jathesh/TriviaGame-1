@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-    var introMusic = new Audio("");
+    var introMusic = new Audio("assets/images/Master.m4a");
     var triviaGame = {
         correct: 0,
         incorrect: 0,
