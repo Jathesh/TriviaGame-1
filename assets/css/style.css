@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Metal Mania', cursive;
+    background: url(../images/masteroftrivia2.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    font: white;
+}
+
+.content {
+    height: 650px;
+}
+
+#startButton {
+    width: 500px;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+#playAgain {
+    color: red;
+    margin-top: 25px;
+}
+
+.heading {
+    font-size: 40px;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    color:black;
+    margin-bottom: 10px;
+}
+
+.col-md-8 {
+    height: 600px;
+    text-align: center;
+}
+
+.timer {
+    font-size: 25px;
+    color: red;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.question {
+    font-size: 40px;
+    color: red;
+    margin-top: 10px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.question p {
+    padding-top: 100px;
+}
+
+
+.choices {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.options {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid red;
+    color: black;
+    background-color: white;
+    font-size: 40px;
+}
+
+.question img {
+    height: 350px;
+    width: 400px;
+}
